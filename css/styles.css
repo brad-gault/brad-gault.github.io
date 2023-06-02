@@ -333,8 +333,8 @@ h4 {
 		}
 
 		.grid-element-2{
-			    max-width: 97vw;
-                		}
+			    padding: 0;
+            }
 .auto-grid {
     --auto-grid-min-size: 28rem;
 
