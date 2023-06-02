@@ -234,7 +234,7 @@ h4 {
     border-radius: 32px;
     object-fit: contain;
     min-height: 400px;
-    background-image: url("../img/umbhcs.png") ;
+    background-image: url("../img/UMBHCS.png") ;
     background-position: 50% 0%;
     background-size: cover;
     transition: all .4s ease;
@@ -248,7 +248,7 @@ h4 {
     border-radius: 32px;
     object-fit: contain;
     min-height: 400px;
-    background-image: url("../img/tictoc.png") ;
+    background-image: url("../img/TicToc.png") ;
     background-position: 50% 0%;
     background-size: cover;
     transition: all .4s ease;
