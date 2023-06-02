@@ -333,9 +333,8 @@ h4 {
 		}
 
 		.grid-element-2{
-			    max-width: 97vw
-			    onclick="document.getElementById('b21Modal').style.display='block'"
-		}
+			    max-width: 97vw;
+                		}
 .auto-grid {
     --auto-grid-min-size: 28rem;
 
