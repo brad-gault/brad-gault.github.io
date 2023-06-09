@@ -438,6 +438,10 @@ img{
     margin-top: 10px;
 }
 
+.highlight{
+    margin: 50px;
+}
+
 .figma-link{
     padding: 1rem 2rem;
     text-decoration: none;
